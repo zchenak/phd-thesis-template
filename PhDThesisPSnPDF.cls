@@ -1134,6 +1134,7 @@ wish to left align your text}
 % Print name and title on abstract, whether when
 % abstract is standalone or toggled by ntabstract option
 % (per Student Registry guidelines)
+  \cleardoublepage  
   \thispagestyle{empty}
   \setsinglecolumn
   \begin{center}
